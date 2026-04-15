@@ -1,0 +1,854 @@
+# depslib dependency file v1.0
+1733062013 source:f:\etas\test\ahmed\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	"EnterInput.h"
+	"PlaceClasses.h"
+	<bits/stdc++.h>
+
+1732444617 f:\etas\test\ahmed\reservedtimeteacher.h
+	<vector>
+
+1733061130 source:f:\etas\test\ahmed\reservedtimeteacher.cpp
+	<iostream>
+	<vector>
+	"ReservedTimeTeacher.h"
+
+1732370811 source:f:\etas\test\ahmed\reservedroom.cpp
+	"ReservedRoom.h"
+	<iostream>
+
+1732370811 f:\etas\test\ahmed\reservedroom.h
+	"ReservedTimeTeacher.h"
+
+1732462887 f:\etas\test\ahmed\structure.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	<bits/stdc++.h>
+
+1732478534 f:\etas\test\ahmed\enterinput.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1732478422 source:f:\etas\test\ahmed\enterinput.cpp
+	<iostream>
+	<vector>
+	<string>
+	"EnterInput.h"
+
+1732440466 f:\etas\test\ahmed\placeclasses.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1732485812 source:f:\etas\test\ahmed\placeclasses.cpp
+	"PlaceClasses.h"
+
+1733656044 source:f:\ahmed\enterinput.cpp
+	<vector>
+	<string>
+	"EnterInput.h"
+
+1732478534 f:\ahmed\enterinput.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1732444617 f:\ahmed\reservedtimeteacher.h
+	<vector>
+
+1732370811 f:\ahmed\reservedroom.h
+	"ReservedTimeTeacher.h"
+
+1732462887 f:\ahmed\structure.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	<bits/stdc++.h>
+
+1733956506 source:f:\ahmed\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	"PlaceClasses.h"
+	"PriorityFunc.h"
+	"OutputInExcel.h"
+	<bits/stdc++.h>
+	"CheckNotReserved.h"
+	"Test1.h"
+	"Test2.h"
+	"Test3.h"
+	"Test4.h"
+	"Test5.h"
+
+1732440466 f:\ahmed\placeclasses.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733954690 source:f:\ahmed\placeclasses.cpp
+	"PlaceClasses.h"
+
+1732370811 source:f:\ahmed\reservedroom.cpp
+	"ReservedRoom.h"
+	<iostream>
+
+1733941640 source:f:\ahmed\reservedtimeteacher.cpp
+	<iostream>
+	<vector>
+	"ReservedTimeTeacher.h"
+
+1733506900 source:f:\ahmed\priorityfunc.cpp
+	"PriorityFunc.h"
+
+1733188902 f:\ahmed\priorityfunc.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733657207 f:\ahmed\outputinexcel.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1733942550 f:\ahmed\outputinexcel.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1733949974 f:\ahmed\test1.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733953883 f:\ahmed\test2.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733951012 f:\ahmed\test3.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733943452 f:\ahmed\test4.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733958213 f:\ahmed\test5.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733956131 f:\ahmed\checknotreserved.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733958137 source:f:\ahmed\checknotreserved.cpp
+	"CheckNotReserved.h"
+
+1733958137 source:f:\error2\ahmed\checknotreserved.cpp
+	"CheckNotReserved.h"
+
+1733956131 f:\error2\ahmed\checknotreserved.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1732444617 f:\error2\ahmed\reservedtimeteacher.h
+	<vector>
+
+1732370811 f:\error2\ahmed\reservedroom.h
+	"ReservedTimeTeacher.h"
+
+1732462887 f:\error2\ahmed\structure.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	<bits/stdc++.h>
+
+1733656044 source:f:\error2\ahmed\enterinput.cpp
+	<vector>
+	<string>
+	"EnterInput.h"
+
+1734001064 source:f:\error2\ahmed\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	"PlaceClasses.h"
+	"PriorityFunc.h"
+	"OutputInExcel.h"
+	<bits/stdc++.h>
+	"CheckNotReserved.h"
+	"Test1.h"
+	"Test2.h"
+	"Test3.h"
+	"Test4.h"
+	"Test5.h"
+
+1732440466 f:\error2\ahmed\placeclasses.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733188902 f:\error2\ahmed\priorityfunc.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734000890 f:\error2\ahmed\outputinexcel.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734001618 f:\error2\ahmed\test1.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733953883 f:\error2\ahmed\test2.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733951012 f:\error2\ahmed\test3.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733998528 f:\error2\ahmed\test4.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733958213 f:\error2\ahmed\test5.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733954690 source:f:\error2\ahmed\placeclasses.cpp
+	"PlaceClasses.h"
+
+1733506900 source:f:\error2\ahmed\priorityfunc.cpp
+	"PriorityFunc.h"
+
+1732370811 source:f:\error2\ahmed\reservedroom.cpp
+	"ReservedRoom.h"
+	<iostream>
+
+1733941640 source:f:\error2\ahmed\reservedtimeteacher.cpp
+	<iostream>
+	<vector>
+	"ReservedTimeTeacher.h"
+
+1733958137 source:f:\weekedit\ahmed\checknotreserved.cpp
+	"CheckNotReserved.h"
+
+1733956131 f:\weekedit\ahmed\checknotreserved.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1732444617 f:\weekedit\ahmed\reservedtimeteacher.h
+	<vector>
+
+1734348178 f:\weekedit\ahmed\reservedroom.h
+
+1734346060 f:\weekedit\ahmed\structure.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	<bits/stdc++.h>
+
+1733656044 source:f:\weekedit\ahmed\enterinput.cpp
+	<vector>
+	<string>
+	"EnterInput.h"
+
+1734384387 source:f:\weekedit\ahmed\placeclasses.cpp
+	"PlaceClasses.h"
+
+1732440466 f:\weekedit\ahmed\placeclasses.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734348178 source:f:\weekedit\ahmed\reservedroom.cpp
+	"ReservedRoom.h"
+	<iostream>
+
+1734427922 source:f:\weekedit\ahmed\reservedtimeteacher.cpp
+	<iostream>
+	<vector>
+	"ReservedTimeTeacher.h"
+
+1734430089 source:f:\weekedit\ahmed\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	"PlaceClasses.h"
+	"PriorityFunc.h"
+	"OutputInExcel.h"
+	<bits/stdc++.h>
+	"CheckNotReserved.h"
+	"ReadInputFromFile.h"
+	"PlaceCources.h"
+	"ConflictRooms.h"
+	"CheckConflictTeacher.h"
+	"Test1.h"
+	"Test2.h"
+	"Test3.h"
+	"Test4.h"
+	"Test5.h"
+
+1734113935 f:\weekedit\ahmed\priorityfunc.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734000890 f:\weekedit\ahmed\outputinexcel.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734427514 f:\weekedit\ahmed\test1.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734254598 f:\weekedit\ahmed\test2.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733951012 f:\weekedit\ahmed\test3.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734379486 f:\weekedit\ahmed\test4.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734347894 f:\weekedit\ahmed\test5.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734250110 source:f:\weekedit\ahmed\priorityfunc.cpp
+	"PriorityFunc.h"
+
+1734174716 f:\weekedit\ahmed\readinputfromfile.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734427907 f:\weekedit\ahmed\placecources.h
+	"structure.h"
+
+1734362375 source:f:\weekedit\ahmed\readinputfromfile.cpp
+	"ReadinputFromFile.h"
+	<fstream>
+	<sstream>
+	"ReadinputFromFile.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1734337548 f:\weekedit\ahmed\conflictrooms.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734341955 f:\weekedit\ahmed\checkconflictteacher.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1733958137 source:f:\wed\ahmed\checknotreserved.cpp
+	"CheckNotReserved.h"
+
+1733956131 f:\wed\ahmed\checknotreserved.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1732444617 f:\wed\ahmed\reservedtimeteacher.h
+	<vector>
+
+1734348178 f:\wed\ahmed\reservedroom.h
+
+1734535119 f:\wed\ahmed\structure.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	<bits/stdc++.h>
+
+1733656044 source:f:\wed\ahmed\enterinput.cpp
+	<vector>
+	<string>
+	"EnterInput.h"
+
+1734534220 source:f:\wed\ahmed\priorityfunc.cpp
+	"PriorityFunc.h"
+
+1734113935 f:\wed\ahmed\priorityfunc.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734575433 source:f:\wed\ahmed\readinputfromfile.cpp
+	"ReadinputFromFile.h"
+	<fstream>
+	<sstream>
+	"ReadinputFromFile.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1734174716 f:\wed\ahmed\readinputfromfile.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734348178 source:f:\wed\ahmed\reservedroom.cpp
+	"ReservedRoom.h"
+	<iostream>
+
+1734427922 source:f:\wed\ahmed\reservedtimeteacher.cpp
+	<iostream>
+	<vector>
+	"ReservedTimeTeacher.h"
+
+1734581586 source:f:\wed\ahmed\placeclasses.cpp
+	"PlaceClasses.h"
+
+1732440466 f:\wed\ahmed\placeclasses.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734580591 source:f:\wed\ahmed\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	"PlaceClasses.h"
+	"PriorityFunc.h"
+	"OutputInExcel.h"
+	<bits/stdc++.h>
+	"CheckNotReserved.h"
+	"ReadInputFromFile.h"
+	"PlaceCources.h"
+	"ConflictRooms.h"
+	"CheckConflictTeacher.h"
+	"Test1.h"
+	"Test2.h"
+	"Test3.h"
+	"Test4.h"
+	"Test5.h"
+
+1734532153 f:\wed\ahmed\outputinexcel.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734570403 f:\wed\ahmed\placecources.h
+	"structure.h"
+
+1734337548 f:\wed\ahmed\conflictrooms.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734341955 f:\wed\ahmed\checkconflictteacher.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734427514 f:\wed\ahmed\test1.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734482593 f:\wed\ahmed\test2.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+
+1733951012 f:\wed\ahmed\test3.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734379486 f:\wed\ahmed\test4.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734347894 f:\wed\ahmed\test5.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1733958137 source:e:\programming\project software engineering\ahmed\checknotreserved.cpp
+	"CheckNotReserved.h"
+
+1733956131 e:\programming\project software engineering\ahmed\checknotreserved.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1732444617 e:\programming\project software engineering\ahmed\reservedtimeteacher.h
+	<vector>
+
+1734348178 e:\programming\project software engineering\ahmed\reservedroom.h
+
+1734535119 e:\programming\project software engineering\ahmed\structure.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	<bits/stdc++.h>
+
+1733656044 source:e:\programming\project software engineering\ahmed\enterinput.cpp
+	<vector>
+	<string>
+	"EnterInput.h"
+
+1734581624 source:e:\programming\project software engineering\ahmed\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	"PlaceClasses.h"
+	"PriorityFunc.h"
+	"OutputInExcel.h"
+	<bits/stdc++.h>
+	"CheckNotReserved.h"
+	"ReadInputFromFile.h"
+	"PlaceCources.h"
+	"ConflictRooms.h"
+	"CheckConflictTeacher.h"
+	"Test1.h"
+	"Test2.h"
+	"Test3.h"
+	"Test4.h"
+	"Test5.h"
+
+1732440466 e:\programming\project software engineering\ahmed\placeclasses.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734113935 e:\programming\project software engineering\ahmed\priorityfunc.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734532153 e:\programming\project software engineering\ahmed\outputinexcel.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734174716 e:\programming\project software engineering\ahmed\readinputfromfile.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734570403 e:\programming\project software engineering\ahmed\placecources.h
+	"structure.h"
+
+1734337548 e:\programming\project software engineering\ahmed\conflictrooms.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734341955 e:\programming\project software engineering\ahmed\checkconflictteacher.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"structure.h"
+
+1734427514 e:\programming\project software engineering\ahmed\test1.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734482593 e:\programming\project software engineering\ahmed\test2.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+
+1733951012 e:\programming\project software engineering\ahmed\test3.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734379486 e:\programming\project software engineering\ahmed\test4.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734347894 e:\programming\project software engineering\ahmed\test5.h
+	<iostream>
+	<vector>
+	<string>
+	"ReservedTimeTeacher.h"
+	"ReservedRoom.h"
+	"structure.h"
+	<bits/stdc++.h>
+
+1734581586 source:e:\programming\project software engineering\ahmed\placeclasses.cpp
+	"PlaceClasses.h"
+
+1734534220 source:e:\programming\project software engineering\ahmed\priorityfunc.cpp
+	"PriorityFunc.h"
+
+1734575433 source:e:\programming\project software engineering\ahmed\readinputfromfile.cpp
+	"ReadinputFromFile.h"
+	<fstream>
+	<sstream>
+	"ReadinputFromFile.h"
+	<fstream>
+	<sstream>
+	<iostream>
+
+1734348178 source:e:\programming\project software engineering\ahmed\reservedroom.cpp
+	"ReservedRoom.h"
+	<iostream>
+
+1734427922 source:e:\programming\project software engineering\ahmed\reservedtimeteacher.cpp
+	<iostream>
+	<vector>
+	"ReservedTimeTeacher.h"
+

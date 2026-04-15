@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Ahmed" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Ahmed" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Ahmed" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="CheckNotReserved.cpp" />
+		<Unit filename="CheckNotReserved.h" />
+		<Unit filename="EnterInput.cpp" />
+		<Unit filename="EnterInput.h" />
+		<Unit filename="OutputInExcel.h" />
+		<Unit filename="PlaceClasses.cpp" />
+		<Unit filename="PlaceClasses.h" />
+		<Unit filename="PlaceCources.h" />
+		<Unit filename="PriorityFunc.cpp" />
+		<Unit filename="PriorityFunc.h" />
+		<Unit filename="ReadInputFromFile.cpp" />
+		<Unit filename="ReadInputFromFile.h" />
+		<Unit filename="ReservedRoom.cpp" />
+		<Unit filename="ReservedRoom.h" />
+		<Unit filename="ReservedTimeTeacher.cpp" />
+		<Unit filename="ReservedTimeTeacher.h" />
+		<Unit filename="Test1.h" />
+		<Unit filename="Test2.h" />
+		<Unit filename="Test3.h" />
+		<Unit filename="Test4.h" />
+		<Unit filename="Test5.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="structure.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,10 @@
+// Priority Assistants : first Max Hours Teaching
+
+
+// Excel Output : each year Scheudle in separate file 
+
+
+// check all courses has been reserved for all Years 
+     if one not reserved prints Error message includes :- 1.course name 
+                                                          2.year of the course  
+                                                          3.Assistant Name 

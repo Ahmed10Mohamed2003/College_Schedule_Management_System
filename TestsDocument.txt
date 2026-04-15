@@ -1,0 +1,24 @@
+Test1 
+@ 5 Years , each year has 6 courses ,one course 3 Hours and the other 2 Hours.
+@ 10 Assistants , each has 4 days available each teach 3 courses.  
+
+
+
+Test2
+@  5 Years , each year has 6 courses ,2 courses 3 Hours and the other 2 Hours.
+@ 10 Assistants , each has 4 days available each teach 3 courses.  
+
+
+Test3
+@ 5 Years , each year has 6 courses ,one course 3 Hours and the other 2 Hours.
+@ 10 Assistants , each has 4 days available 2 teach 4 courses and the other teach 3courses.
+
+
+Test4 (another approch of Test1)
+@  5 Years , each year has 6 courses ,2 courses 3 Hours and the other 2 Hours.
+@ 10 Assistants , each has 4 days available each teach 3 courses.
+
+
+Test5
+@  5 Years , each year has 6 courses ,2 courses 3 Hours and the other 2 Hours.
+@ 10 Assistants , each has 4 days available 1 teach 5 courses and the other teach 3courses.
